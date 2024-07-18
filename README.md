@@ -1,4 +1,4 @@
-# Agilent34410A
+# Agilent 34410A
 Calibration procedure for Agilent 34410A with met/cal. 
 
 Communication with agilent 34410A is over USB with SCPI commands
