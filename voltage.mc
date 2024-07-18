@@ -1,4 +1,4 @@
-Bilfinger                                                   MET/CAL Procedure
+                                                            MET/CAL Procedure
 =============================================================================
 INSTRUMENT:            DC Voltage In
 INSTRUMENT:            DC Voltage Out
